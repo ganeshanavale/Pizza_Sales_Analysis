@@ -5,7 +5,7 @@
 The Pizza Sales Project is a data analysis and visualization initiative designed to analyze and visualize sales data from a fictional pizza restaurant chain. This project employs SQL for data extraction and transformation, and Power BI for data visualization. The primary objective is to generate insights and actionable information to help the pizza restaurant chain optimize its operations, enhance sales, and improve customer satisfaction.
 
 Project Components
-1. Data Acquisition
+1. Data Collection
 
    The project begins with acquiring raw sales data, which may include:
    Customer orders
